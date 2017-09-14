@@ -1,13 +1,5 @@
 # PHP client for Bee
 
-[![Build Status](https://travis-ci.org/bee-php/client.svg?branch=master)](https://travis-ci.org/bee-php/client)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/bee-php/client/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/bee-php/client/?branch=master)
-[![Code Coverage](https://scrutinizer-ci.com/g/bee-php/client/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/bee-php/client/?branch=master)
-
-This version of client requires Bee 1.7.1 or above. 
-For older versions of Bee please use [v0.2.0](https://github.com/bee-php/client/releases/tag/v0.2.0).
-
-
 ## Installation
 
 The recommended way to install the library is through [Composer](http://getcomposer.org):
@@ -127,4 +119,4 @@ $ docker run --rm --net=bee-php --name client -v $(pwd):/client -w /client clien
 
 ## License
 
-The library is released under the MIT License. See the bundled [LICENSE](LICENSE) file for details.
+WTF license
